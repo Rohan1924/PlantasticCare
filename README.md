@@ -89,7 +89,7 @@ PlantasticCare/
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/kvkushal/PlantasticCare.git
+   git clone https://github.com/Rohan1924/PlantasticCare/tree/main
    cd PlantasticCare
    ```
 
@@ -175,8 +175,8 @@ PlantasticCare/
 
 ## 👨‍💻 Author
 
-**Kushal KV**
-- GitHub: [@kvkushal](https://github.com/kvkushal)
+**Rohan R**
+- GitHub: [@Rohan R](https://github.com/Rohan1924)
 
 ## 📄 License
 
